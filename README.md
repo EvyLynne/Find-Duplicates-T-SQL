@@ -1,3 +1,3 @@
 # Find-Duplicates
-This repo stores artifacts for different ways to find duplicates
+This repo stores artifacts for different ways to find duplicates using T-SQL
 
